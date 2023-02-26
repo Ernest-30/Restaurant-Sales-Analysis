@@ -39,7 +39,7 @@ Findings;
    69 orders and 315 items ordered.
    
  CONCLUSION;
-   The best restaurant to order from for the fastest delivery is The Cave Hotel with an Average delivery time of 26.03 mins and average delivery rating of 3.5. This is    the Best timinig when compared to the other restaraunts, this explains why they get the highest number of orders. 
+   The best restaurant to order from for the fastest delivery is The Cave Hotel with an Average delivery time of 26.03 mins and average delivery rating of 3.5. This is    the Best timinig when compared to the other restaurants, this explains why they get the highest number of orders. 
    Based on Customer ratings, the Best meal to go for is the North Indian Cuisine with an Average rating of 3.59, this explains why it is ordered the most.
 
 
