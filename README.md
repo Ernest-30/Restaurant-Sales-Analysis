@@ -1,8 +1,8 @@
 DATA EXPLORATION, ANALYSIS AND VISUALIZATION USING SQL AND POWER BI
 
-In this notebook I used SQL to explore and analyze the dataset to make findings and draw insights 
+In this notebook I used SQL to explore and analyze the dataset to make findings and draw insights. 
 
-I visualize the results of the analysis and findings using PowerBI
+I got the dataset from Kaggle and I uploaded it on SQL Server where I performed the analysis. I visualized the results of the analysis and findings using PowerBI.
 
 About Dataset:
 The dataset has details of orders placed by customers to the restaurants in a food delivery app. There are 500 orders that were placed on a day.
