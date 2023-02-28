@@ -90,7 +90,6 @@ GROUP BY RestaurantName
 ORDER BY 4 DESC
 
 ---------------------------------------------------------------------------------------------------------------------
-
 --Restaurant Summary, Top Restaurant by Delivery rating
 
 SELECT  RestaurantName, COUNT ([Order ID]) AS Number_of_orders,
