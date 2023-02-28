@@ -1,3 +1,5 @@
+--Joining the tables for the analysis and Dashboard 
+
 USE RestaurantOrders
 SELECT [Order ID],[Order Date], [Customer Name], 
 		[Quantity of Items], [Order Amount], 
