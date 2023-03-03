@@ -1,4 +1,4 @@
-DATA EXPLORATION, ANALYSIS AND VISUALIZATION USING SQL AND POWER BI
+#DATA EXPLORATION, ANALYSIS AND VISUALIZATION USING SQL AND POWER BI
 
 In this notebook I used SQL to explore and analyze the dataset to make findings and draw insights. 
 
