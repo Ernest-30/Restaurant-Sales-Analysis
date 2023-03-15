@@ -8,7 +8,9 @@ I got the dataset from Kaggle and I uploaded it on SQL Server where I performed 
 The dataset has details of orders placed by customers to the restaurants in a food delivery app. There are 500 orders that were placed on a day.
 
 
-# Business Task: Identify patterns in the orders placed by customers in a day.
+# Business Task: 
+
+Identify patterns in the orders placed by customers in a day.
 
 # SUMMARY; 
 
